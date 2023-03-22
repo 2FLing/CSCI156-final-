@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LANClient.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  LANClient.cpp
+  LANClientDlg.cpp
+C:\study\CSCI156\Project\LANClient\LANClientDlg.cpp(135,15): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\study\CSCI156\Project\LANClient\LANClientDlg.cpp(161,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project\LANClient\LANClientDlg.cpp(187,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project\LANClient\LANClientDlg.cpp(325,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LANClient.vcxproj -> C:\study\CSCI156\Project\x64\Debug\InstructorClient.exe

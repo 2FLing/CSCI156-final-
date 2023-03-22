@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LANServer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  server.cpp
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(45,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(97,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(107,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(114,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(126,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(160,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(171,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(182,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(191,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(198,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(204,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(215,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(218,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(231,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\study\CSCI156\Project - Copy\LANServer\server.cpp(238,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LANServer.vcxproj -> C:\study\CSCI156\Project - Copy\x64\Debug\server.exe
